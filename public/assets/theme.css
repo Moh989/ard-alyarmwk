@@ -1,0 +1,55 @@
+/* Semantic surfaces keep the official logo, photography, film and PDF artwork unchanged. */
+:root{color-scheme:light;--surface:#fff;--surface-soft:#eeefeb;--surface-hover:#f4f5f8;--header-surface:#f6f6f2f5;--footer-surface:#efefeb;--heading-emphasis:#242c51;--link:#30438b;--field-line:#cfd1d5;--control-line:#b9bfcc;--control-ink:#555e70;--viewer-ink:#41495f;--success-surface:#f0f7eb;--success-ink:#2d5121;--success-line:#aec5a2;--error-surface:#fff0ec;--error-ink:#a02818;--error-line:#b14332;--warning-surface:#fff0da;--warning-ink:#75551b;--preview-surface:#ffedb6;--preview-ink:#493b14;--viewer-surface:#e5e6e4;--panel-shadow:0 24px 50px #242c511a}
+:root[data-theme=dark]{color-scheme:dark;--paper:#121827;--surface:#1b2335;--surface-soft:#182031;--surface-hover:#27334b;--header-surface:#121827f5;--footer-surface:#101624;--ink:#edf0f7;--heading-emphasis:#edf0f7;--muted:#abb5c9;--line:#344058;--link:#aec0ff;--orange-ink:#ffab90;--field-line:#596781;--control-line:#61708e;--control-ink:#abb5c9;--viewer-ink:#abb5c9;--success-surface:#1d3329;--success-ink:#c4e6bb;--success-line:#537452;--error-surface:#3a2426;--error-ink:#ffb7a9;--error-line:#98615b;--warning-surface:#382e1e;--warning-ink:#f5d58b;--preview-surface:#382e1e;--preview-ink:#f5d58b;--viewer-surface:#0e1420;--panel-shadow:0 24px 50px #0005}
+@media(prefers-color-scheme:dark){:root:not([data-theme]){color-scheme:dark;--paper:#121827;--surface:#1b2335;--surface-soft:#182031;--surface-hover:#27334b;--header-surface:#121827f5;--footer-surface:#101624;--ink:#edf0f7;--heading-emphasis:#edf0f7;--muted:#abb5c9;--line:#344058;--link:#aec0ff;--orange-ink:#ffab90;--field-line:#596781;--control-line:#61708e;--control-ink:#abb5c9;--viewer-ink:#abb5c9;--success-surface:#1d3329;--success-ink:#c4e6bb;--success-line:#537452;--error-surface:#3a2426;--error-ink:#ffb7a9;--error-line:#98615b;--warning-surface:#382e1e;--warning-ink:#f5d58b;--preview-surface:#382e1e;--preview-ink:#f5d58b;--viewer-surface:#0e1420;--panel-shadow:0 24px 50px #0005}}
+.theme-toggle{display:inline-grid;place-items:center;flex:0 0 44px;width:44px;height:44px;padding:0;border:1px solid var(--field-line);border-radius:50%;background:transparent;color:var(--ink);transition:background var(--time),border-color var(--time)}
+.theme-toggle:hover{background:var(--surface-hover);border-color:var(--link);color:var(--ink)}
+.theme-toggle .theme-sun{display:none}
+[data-theme=dark] .theme-toggle .theme-moon{display:none}
+[data-theme=dark] .theme-toggle .theme-sun{display:block}
+.header-actions{gap:16px}
+.theme-toolbar{display:flex;justify-content:flex-end;margin-block-end:16px}
+:focus-visible{outline-color:var(--link)}
+.site-header{background:var(--header-surface)}
+.sector-ribbon,.legal-name-box,.profile-display,.admin-table th,.admin-tabs a,.admin-sections details,.admin-message{background:var(--surface-soft)}
+.site-footer{background:var(--footer-surface)}
+.footer-bottom{border-color:var(--line)}
+.hero-copy h1::first-line,.hero-seal strong,.sector-ribbon p,.since b,.breadcrumb>span:last-child,.contact-detail p{color:var(--heading-emphasis)}
+.main-nav>a[aria-current=page],.main-nav>a:hover,.nav-sectors[open] .nav-sectors-toggle,.nav-sectors[data-active] .nav-sectors-toggle,.nav-sector-overview[aria-current],.nav-sector-overview:hover,.nav-sector-list a:hover,.nav-sector-list a[aria-current=page],.about-vision,.about-vision .prose p,.error-number,.admin-stat b,.admin-table a{color:var(--link)}
+.nav-sector-panel,.contact-form,.admin-card,.admin-stat,.admin-table,.admin-login,.admin-media-item{background:var(--surface)}
+.nav-sector-panel{box-shadow:var(--panel-shadow)}
+.nav-sector-list a:hover,.nav-sector-list a[aria-current=page]{background:var(--surface-hover)}
+.button-outline{color:var(--heading-emphasis);border-color:var(--field-line)}
+.button-outline:hover{color:white}
+.field input,.field select,.field textarea{border-color:var(--field-line)}
+.field input::placeholder,.field textarea::placeholder{color:var(--muted);opacity:1}
+.field input[aria-invalid=true],.field textarea[aria-invalid=true],.field select[aria-invalid=true]{border-color:var(--error-line)}
+.field-error{color:var(--error-ink)}
+.notice{background:var(--success-surface);color:var(--success-ink);border-color:var(--success-line)}
+.notice p{color:inherit}
+.notice.error,.danger-button{background:var(--error-surface);color:var(--error-ink);border-color:var(--error-line)}
+.badge{background:var(--success-surface);color:var(--success-ink)}
+.badge.review,.badge.draft{background:var(--warning-surface);color:var(--warning-ink)}
+.preview-bar{background:var(--preview-surface);color:var(--preview-ink)}
+.admin-actions.sticky{background:var(--header-surface)}
+.admin-tabs a[aria-current]{background:var(--blue);color:white}
+.admin-header .theme-toggle{border-color:#8c9ab8;color:white;padding:0}
+.admin-header .theme-toggle:hover{background:#30438b}
+.showcase:before,.showcase-arrows button,.showcase-tab{border-color:var(--control-line)}
+.showcase-tab{color:var(--control-ink)}
+.showcase-tab[aria-current=true]{color:var(--heading-emphasis)}
+.showcase-tab:hover{color:var(--orange-ink)}
+.pdf-preview iframe,.pdf-viewer{background:var(--viewer-surface)}
+.pdf-toolbar,.pdf-text{background:var(--surface);border-color:var(--line)}
+.pdf-toolbar button,.pdf-toolbar input{background:var(--paper);color:var(--ink);border-color:var(--field-line)}
+.pdf-toolbar .theme-toggle{padding:0;min-width:44px}
+.pdf-stage>p{color:var(--viewer-ink)}
+.pdf-stage canvas{background:white;color-scheme:light}
+@media(max-width:700px){.header-inner{gap:10px}.header-actions{gap:8px}.header-actions .theme-toggle{width:40px;flex-basis:40px}.nav-sector-panel{box-shadow:none}}
+@media(prefers-reduced-motion:reduce){.theme-toggle{transition:none}}
+@media print{:root[data-theme],:root:not([data-theme]),:root{color-scheme:light;--paper:white;--surface:white;--surface-soft:#f2f2f2;--ink:#222a45;--heading-emphasis:#242c51;--muted:#626879;--line:#dedfdc;--link:#30438b;--orange-ink:#bd381f}.theme-toggle{display:none!important}body{background:white;color:#222a45}}
+
+.menu-lines,.menu-lines:after{border-color:var(--heading-emphasis)}
+a:hover{color:var(--orange-ink)}
+.admin-header a:hover{color:white}
+.profile-banner .light-link:hover{color:#ffb39f}

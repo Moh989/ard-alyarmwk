@@ -1,0 +1,905 @@
+{
+  "summary": [
+    {
+      "width": 375,
+      "path": "/ar/",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/about",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/communications",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/energy",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/profile",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/contact",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/privacy",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/ar/not-a-page",
+      "status": 404,
+      "scrollWidth": 375,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/about",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/communications",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/energy",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/profile",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/contact",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/privacy",
+      "status": 200,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 375,
+      "path": "/en/not-a-page",
+      "status": 404,
+      "scrollWidth": 375,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/about",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/communications",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/energy",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/profile",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/contact",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/privacy",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/ar/not-a-page",
+      "status": 404,
+      "scrollWidth": 768,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/about",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/communications",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/energy",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/profile",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/contact",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/privacy",
+      "status": 200,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 768,
+      "path": "/en/not-a-page",
+      "status": 404,
+      "scrollWidth": 768,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/about",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/communications",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/energy",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/profile",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/contact",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/privacy",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/ar/not-a-page",
+      "status": 404,
+      "scrollWidth": 1440,
+      "lang": "ar",
+      "dir": "rtl",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/about",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/general-contracting",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/general-trading",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/information-technology",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/general-services",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/communications",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/energy",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/digital-solutions",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/sectors/industrial-investments",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/profile",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/contact",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/privacy",
+      "status": 200,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    },
+    {
+      "width": 1440,
+      "path": "/en/not-a-page",
+      "status": 404,
+      "scrollWidth": 1440,
+      "lang": "en",
+      "dir": "ltr",
+      "missing": [],
+      "h1": 1
+    }
+  ],
+  "consoleErrors": []
+}

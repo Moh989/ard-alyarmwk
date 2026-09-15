@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "name": "chrome: both themes, RTL/LTR, keyboard toggle and sector dropdown fit 375/768/1440",
+      "passed": true
+    },
+    {
+      "name": "chrome: system preference, manual override, reload, language switch, tabs, embedded PDF and unsent form values work",
+      "passed": true
+    },
+    {
+      "name": "chrome: storage denial and JavaScript-disabled system theme remain usable",
+      "passed": true
+    },
+    {
+      "name": "Chrome: public pages in both themes/languages, authenticated administration and light print layout checked",
+      "passed": true
+    },
+    {
+      "name": "webkit: both themes, RTL/LTR, keyboard toggle and sector dropdown fit 375/768/1440",
+      "passed": true
+    },
+    {
+      "name": "webkit: system preference, manual override, reload, language switch, tabs, embedded PDF and unsent form values work",
+      "passed": true
+    },
+    {
+      "name": "webkit: storage denial and JavaScript-disabled system theme remain usable",
+      "passed": true
+    }
+  ],
+  "violations": [],
+  "errors": []
+}

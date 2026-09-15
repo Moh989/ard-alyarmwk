@@ -1,0 +1,5 @@
+<?php
+if(!function_exists('afield')){
+function afield(string $key,string $label,mixed $value='',bool $textarea=false,string $dir='rtl',string $extra=''):void{if($_SERVER['REQUEST_METHOD']==='POST'&&isset($_POST[$key])&&is_string($_POST[$key]))$value=$_POST[$key];echo '<div class="field"><label for="edit-'.e($key).'">'.e($label).'</label>';if($textarea)echo '<textarea id="edit-'.e($key).'" name="'.e($key).'" rows="4" dir="'.e($dir).'" '.$extra.'>'.e($value).'</textarea>';else echo '<input id="edit-'.e($key).'" name="'.e($key).'" value="'.e($value).'" dir="'.e($dir).'" '.$extra.'>';echo '</div>';}
+function aselect(string $key,string $label,array $options,mixed $value):void{if($_SERVER['REQUEST_METHOD']==='POST')$value=input($key,(string)$value);echo '<div class="field"><label for="edit-'.e($key).'">'.e($label).'</label><select id="edit-'.e($key).'" name="'.e($key).'">';foreach($options as $k=>$v)echo '<option value="'.e($k).'" '.((string)$k===(string)$value?'selected':'').'>'.e($v).'</option>';echo '</select></div>';}
+}

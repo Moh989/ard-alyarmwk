@@ -1,0 +1,22 @@
+{
+  "engine": "Playwright WebKit 26.6; not a physical Safari/iPhone test",
+  "results": [
+    {
+      "name": "WebKit RTL/LTR home, software sector, profile and contact fit 375/768/1440 with working PDF, mixed-language fields and mobile menus",
+      "passed": true
+    },
+    {
+      "name": "WebKit desktop Arabic and mobile English advance after real video ended, then every six seconds; Pause holds the image",
+      "passed": true
+    },
+    {
+      "name": "WebKit renders all ten pages of the optimised PDF",
+      "passed": true
+    },
+    {
+      "name": "No WebKit JavaScript errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

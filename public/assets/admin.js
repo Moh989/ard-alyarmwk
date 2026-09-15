@@ -1,0 +1,1 @@
+let dirty=false;document.querySelectorAll('[data-unsaved]').forEach(form=>{form.addEventListener('input',()=>{dirty=true});form.addEventListener('submit',()=>{dirty=false})});window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}});

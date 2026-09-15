@@ -1,0 +1,95 @@
+{
+  "source": {
+    "path": "/assets/company-profile.pdf",
+    "bytes": 106978045,
+    "sha256": "c6e9356630ef961300e310a5eede210f584cb64fb647ed8c10f8573ad50d449f"
+  },
+  "web": {
+    "path": "/assets/profile/company-profile-web-00904073e8.pdf",
+    "bytes": 4152977,
+    "sha256": "00904073e87a0c2113f6a93c576f3d6556aaefd6fc450b872d96ba33dd839b6b",
+    "pages": 10
+  },
+  "processing": {
+    "tool": "pypdf 6.18.1",
+    "jpeg_quality": 88,
+    "resolution_changed": false,
+    "vector_text_preserved": true,
+    "removed": "Illustrator PieceInfo editing data, page thumbnails and unreferenced/duplicate objects",
+    "images": [
+      {
+        "page_first_seen": 1,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 1,
+        "name": "Im1.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 1,
+        "name": "Im2.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 4,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 5,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 6,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 7,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 8,
+        "name": "Im1.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      },
+      {
+        "page_first_seen": 9,
+        "name": "Im0.jpg",
+        "dimensions": [
+          1672,
+          941
+        ]
+      }
+    ]
+  },
+  "documentation": "https://pypdf.readthedocs.io/en/stable/user/file-size.html"
+}

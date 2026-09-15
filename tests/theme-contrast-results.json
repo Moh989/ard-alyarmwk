@@ -1,0 +1,12 @@
+[
+  {
+    "theme": "dark",
+    "menuIconContrast": true,
+    "footerHoverContrast": true
+  },
+  {
+    "theme": "light",
+    "menuIconContrast": true,
+    "footerHoverContrast": true
+  }
+]

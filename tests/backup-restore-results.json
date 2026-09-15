@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Private full backup restores content, admin password hash, contact message and uploaded media into an isolated empty database",
+        "passed": true
+    },
+    {
+        "name": "Restore rejects a nonempty database and wrong confirmation without deleting existing data",
+        "passed": true
+    }
+]

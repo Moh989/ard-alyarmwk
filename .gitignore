@@ -1,0 +1,19 @@
+/config/local.php
+/config/local.php.*
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+/.venv/
+/node_modules/
+/vendor/
+/storage/*
+!/storage/.gitkeep
+/tmp/
+/public/uploads/*
+!/public/uploads/.htaccess
+/tests/screenshots/
+/output/
+/delivery/*.zip
+/Comp 1.mp4

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Full natural video playback exceeds seven seconds before the actual ended event advances the carousel",
+    "passed": true
+  },
+  {
+    "name": "Photographs advance every six seconds and returning to the film restarts it from the beginning",
+    "passed": true
+  },
+  {
+    "name": "Pausing the video holds its slide; no image timer truncates the film",
+    "passed": true
+  },
+  {
+    "name": "Navigation pause holds an ended film or a photograph, and Resume continues the sequence",
+    "passed": true
+  },
+  {
+    "name": "Image clocks stop while the document is hidden or the carousel is outside the viewport",
+    "passed": true
+  },
+  {
+    "name": "Keyboard interaction stops automatic changes until the visitor explicitly restarts them",
+    "passed": true
+  },
+  {
+    "name": "English mobile carousel advances after the 480p film and through the photo slides",
+    "passed": true
+  },
+  {
+    "name": "Reduced motion leaves the poster and automatic navigation off; explicit Start enables the film and sequence",
+    "passed": true
+  },
+  {
+    "name": "Save-Data prevents unsolicited video loading and automatic navigation; explicit Start selects the small variant",
+    "passed": true
+  },
+  {
+    "name": "Carousels without a film keep their manual navigation",
+    "passed": true
+  },
+  {
+    "name": "No JavaScript errors during the full automatic cycle",
+    "passed": true
+  }
+]

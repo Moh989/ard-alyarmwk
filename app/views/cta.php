@@ -1,0 +1,1 @@
+<section class="section container cta-section"><div><p class="eyebrow"><?=t('الخطوة التالية','THE NEXT STEP')?></p><h2><?=nl2br(e($s['title']))?></h2><p><?=e($s['text'])?></p></div><a class="button" href="<?=url('contact')?>"><?=t('ناقش مشروعك معنا','Discuss your project')?><span class="arrow" aria-hidden="true">↗</span></a></section>

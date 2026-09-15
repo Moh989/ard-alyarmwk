@@ -1,0 +1,70 @@
+[
+  {
+    "name": "First home slide plays silently and inline at 720p, with correct pause icon and accessible label",
+    "passed": true
+  },
+  {
+    "name": "Pause/play works and a manual pause survives changing slides",
+    "passed": true
+  },
+  {
+    "name": "Playback stops on inactive slides and offscreen, and resumes only when visible",
+    "passed": true
+  },
+  {
+    "name": "Document visibility handler pauses background playback",
+    "passed": true
+  },
+  {
+    "name": "HTTP 206 byte ranges, faststart metadata, invalid-range 416 and small mobile payload",
+    "passed": true
+  },
+  {
+    "name": "Reduced-motion preference downloads no video until Play; mobile fetches only the 480p variant",
+    "passed": true
+  },
+  {
+    "name": "Save-Data / slow connection leaves poster until user requests the smaller video",
+    "passed": true
+  },
+  {
+    "name": "Browser autoplay rejection keeps a usable poster and Play control",
+    "passed": true
+  },
+  {
+    "name": "Failed video request preserves poster and offers a direct alternative",
+    "passed": true
+  },
+  {
+    "name": "No-JavaScript fallback opens a native video player page",
+    "passed": true
+  },
+  {
+    "name": "Whole 16:9 composition retained in both languages at 375, 768 and 1440 pixels",
+    "passed": true
+  },
+  {
+    "name": "No application JavaScript errors",
+    "passed": true
+  },
+  {
+    "name": "Home video setting persists and removes the film; unreferenced media endpoints are unavailable",
+    "passed": true
+  },
+  {
+    "name": "Draft video slide stays private, automatically receives its poster and is available in authenticated preview",
+    "passed": true
+  },
+  {
+    "name": "Published custom video slide and its mobile variant work from CMS",
+    "passed": true
+  },
+  {
+    "name": "Server rejects PDF/image IDs in the video field",
+    "passed": true
+  },
+  {
+    "name": "Local router prevents bypassing media access through a direct video asset path",
+    "passed": true
+  }
+]

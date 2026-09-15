@@ -1,0 +1,66 @@
+[
+  {
+    "path": "/ar/",
+    "violations": []
+  },
+  {
+    "path": "/ar/about",
+    "violations": []
+  },
+  {
+    "path": "/ar/sectors",
+    "violations": []
+  },
+  {
+    "path": "/ar/sectors/energy",
+    "violations": []
+  },
+  {
+    "path": "/ar/profile",
+    "violations": []
+  },
+  {
+    "path": "/ar/contact",
+    "violations": []
+  },
+  {
+    "path": "/ar/privacy",
+    "violations": []
+  },
+  {
+    "path": "/ar/missing",
+    "violations": []
+  },
+  {
+    "path": "/en/",
+    "violations": []
+  },
+  {
+    "path": "/en/about",
+    "violations": []
+  },
+  {
+    "path": "/en/sectors",
+    "violations": []
+  },
+  {
+    "path": "/en/sectors/energy",
+    "violations": []
+  },
+  {
+    "path": "/en/profile",
+    "violations": []
+  },
+  {
+    "path": "/en/contact",
+    "violations": []
+  },
+  {
+    "path": "/en/privacy",
+    "violations": []
+  },
+  {
+    "path": "/en/missing",
+    "violations": []
+  }
+]

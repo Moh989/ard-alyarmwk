@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fresh schema and seed register bilingual content, three video assets and homepage video without fabricated projects",
+        "passed": true
+    },
+    {
+        "name": "Repeated install does not duplicate assets, retains disabled home video, and explicit activation restores it",
+        "passed": true
+    },
+    {
+        "name": "Running the seed again preserves existing content edits",
+        "passed": true
+    },
+    {
+        "name": "Current landscape cover and PDF size install correctly; repeated profile synchronization is idempotent",
+        "passed": true
+    },
+    {
+        "name": "Source revision mismatch disables the reading copy and public media access; verified reinstall restores it",
+        "passed": true
+    },
+    {
+        "name": "Launch checks reject unapproved English and draft required pages; pass complete simulated settings without sending email",
+        "passed": true
+    }
+]

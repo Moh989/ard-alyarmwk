@@ -1,0 +1,7 @@
+{
+  "archive": "ard-alyarmwk-source.zip",
+  "bytes": 153302364,
+  "sha256": "fbd6ac30fce6802b861bf2d892a29593ba25a79b885b147835a0fc27604aa6eb",
+  "files": 505,
+  "excluded": "Runtime database, secrets, administrator credentials, test data, node_modules, Python environment and bulk QA screenshots."
+}

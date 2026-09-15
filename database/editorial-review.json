@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-13",
+  "scope": "Editorial and source consistency review; company approval remains pending for English.",
+  "replacements": [
+    [
+      "with a commitment to developing businesses and infrastructure.",
+      "seeking to contribute to business and infrastructure development."
+    ],
+    [
+      "through a vision for growth, development and the Iraqi market.",
+      "with a vision for growth, development and service to the Iraqi market."
+    ],
+    [
+      "Logistics operating systems",
+      "Logistics operations systems"
+    ],
+    [
+      "Supply and delivery of solar energy projects",
+      "Supply and implementation of solar energy projects"
+    ],
+    [
+      "القطاعات الثمانية وبيانات الاتصال الرسمية.",
+      "مجالات العمل وبيانات الاتصال الرسمية."
+    ],
+    [
+      "Our eight sectors and official contact details.",
+      "Business activities and official contact details."
+    ],
+    [
+      "نجمع الاسم والبريد الإلكتروني والرسالة والقطاع المختار. الشركة ورقم الهاتف حقول اختيارية.",
+      "نجمع الاسم والبريد الإلكتروني والرسالة. الشركة ورقم الهاتف والقطاع حقول اختيارية."
+    ],
+    [
+      "The contact form collects your name, email address, message and selected sector. Company and phone number are optional.",
+      "The contact form collects your name, email address and message. Company, phone number and sector are optional."
+    ]
+  ]
+}

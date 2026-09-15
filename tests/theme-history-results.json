@@ -1,0 +1,12 @@
+[
+  {
+    "engine": "chrome",
+    "invalidPreferenceFallback": true,
+    "backForwardPersistence": true
+  },
+  {
+    "engine": "webkit",
+    "invalidPreferenceFallback": true,
+    "backForwardPersistence": true
+  }
+]

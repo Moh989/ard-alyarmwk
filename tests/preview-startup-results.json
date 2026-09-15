@@ -1,0 +1,22 @@
+{
+    "results": [
+        {
+            "case": "healthy database and existing web server reused",
+            "passed": true
+        },
+        {
+            "case": "occupied port with rejected credentials stops safely",
+            "passed": true
+        },
+        {
+            "case": "missing configured schema is not seeded",
+            "passed": true
+        },
+        {
+            "case": "free port with missing application data refuses initialization",
+            "passed": true
+        }
+    ],
+    "cold_restart_on_3308": "passed",
+    "mawaheb_remained_on_3307": true
+}

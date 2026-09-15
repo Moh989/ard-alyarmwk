@@ -1,0 +1,88 @@
+{
+  "original_bytes": 106978045,
+  "web_bytes": 4152977,
+  "reduction_percent": 96.12,
+  "text_unchanged": true,
+  "pages": [
+    {
+      "page": 1,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.5508941892422458
+    },
+    {
+      "page": 2,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.3724368538149457
+    },
+    {
+      "page": 3,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.3911454652532391
+    },
+    {
+      "page": 4,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.28584511189634865
+    },
+    {
+      "page": 5,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.38209560266980763
+    },
+    {
+      "page": 6,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.1576917288313048
+    },
+    {
+      "page": 7,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.28822536317235964
+    },
+    {
+      "page": 8,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.40056340793089906
+    },
+    {
+      "page": 9,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.9272660646512237
+    },
+    {
+      "page": 10,
+      "dimensions": [
+        1200,
+        849
+      ],
+      "mean_absolute_channel_difference": 0.5971427169218689
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source_bytes": 19549366,
+  "outputs": {
+    "desktop": {
+      "bytes": 790697,
+      "sha256": "f0371d583868651d6b67942f39e5b623fb88dbb1d236aa4182f8978381313457",
+      "path": "/assets/video/company-film-desktop-f0371d5838.mp4"
+    },
+    "mobile": {
+      "bytes": 342850,
+      "sha256": "f291b65a44b58c09fb0c9faee641ac9c376b233b2feb69b20b354bdbdf41783b",
+      "path": "/assets/video/company-film-mobile-f291b65a44.mp4"
+    },
+    "poster": {
+      "bytes": 30170,
+      "sha256": "d8d3af1a576677b6a0cff51b546f9c1b2dc8522835d31fc80296e3bc77bbb438",
+      "path": "/assets/images/company-film-poster-d8d3af1a57-1280.webp"
+    },
+    "poster_mobile": {
+      "bytes": 8970,
+      "path": "/assets/images/company-film-poster-d8d3af1a57-640.webp"
+    }
+  },
+  "ssim": "[Parsed_ssim_3 @ 0x11ea06940] SSIM Y:0.988396 (19.353996) U:0.994254 (22.406455) V:0.995042 (23.046751) All:0.990480 (20.213685)",
+  "ffmpeg": "ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers"
+}

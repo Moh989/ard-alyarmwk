@@ -1,0 +1,1 @@
+<div class="project-grid"><?php foreach($listedProjects as $p):?><article><a href="<?=url('projects/'.$p['slug'])?>"><?=picture((int)$p['image_id'])?><h3><?=e($p['title'])?> <span class="arrow" aria-hidden="true">↗</span></h3></a><p><?=e($p['summary'])?></p></article><?php endforeach;?></div>

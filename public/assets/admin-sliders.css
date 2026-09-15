@@ -1,0 +1,32 @@
+/* A quiet, theme-aware workspace for each page's slider. */
+.admin-header a[aria-current=page]{text-decoration:underline;text-decoration-color:var(--orange);text-underline-offset:7px}
+.slider-dashboard-link,.slider-current-heading,.slider-group-heading{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.slider-dashboard-link p{margin:0;font-size:15px}.slider-dashboard-link h2{margin-bottom:8px}
+.slider-dashboard-link .button{flex-shrink:0}
+.slider-group-tabs{flex-wrap:wrap}.slider-group-tabs a{font-size:14px;min-height:44px}
+.slider-admin-group{margin-block:40px;scroll-margin-block-start:25px}
+.slider-group-heading{margin-block-end:18px}.slider-group-heading h2{font-size:25px}
+.slider-admin-list{border-block-start:1px solid var(--line)}
+.slider-admin-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,.7fr);gap:28px;align-items:center;padding:24px;background:var(--surface);border:1px solid var(--line);border-block-start:0}
+.slider-row-identity{display:flex;align-items:center;gap:20px;min-width:0}
+.slider-row-identity h3{font-size:20px;line-height:1.6;overflow-wrap:anywhere}.slider-row-identity p{font-size:12px;color:var(--muted);margin-block:4px 0;overflow-wrap:anywhere}
+.slider-row-thumb{display:grid;place-items:center;width:104px;height:74px;flex-shrink:0;background:var(--surface-soft);overflow:hidden;border-inline-start:3px solid var(--orange);color:var(--muted);font-size:32px}
+.slider-row-thumb img{width:100%;height:100%;object-fit:cover}
+.slider-language-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.slider-language-action{min-width:0;border-inline-start:1px solid var(--line);padding-inline-start:20px}
+.slider-edit-link{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px;color:var(--link);font-size:16px;font-weight:500}
+.slider-language-action .admin-hint{display:block;font-size:11px;line-height:1.8;margin:3px 0 0}
+.slider-current-heading{align-items:start;margin-bottom:22px}.slider-current-heading h2{margin-bottom:8px}.slider-current-heading p{margin:0}.slider-current-heading>a{flex-shrink:0}
+.slider-current-list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;list-style:none;padding:0;margin:0 0 24px}
+.slider-current-list li{min-width:0}.slider-current-list p{font-size:13px;line-height:1.8;margin-block:10px 0;overflow-wrap:anywhere}
+.slider-current-image{position:relative;display:grid;place-items:center;aspect-ratio:16/10;background:var(--surface-soft);border:1px solid var(--line);overflow:hidden;font-size:40px;color:var(--muted)}
+.slider-current-image img{height:100%;width:100%;object-fit:contain}
+.slider-media-kind{position:absolute;inset-inline-start:8px;bottom:8px;background:var(--navy);color:white;padding:3px 8px;font-size:11px}
+.slider-fields details{scroll-margin-block-start:20px}.slider-fields summary{min-height:32px;overflow-wrap:anywhere}
+.slider-fields .field{min-width:0}.slider-fields select{max-width:100%;text-overflow:ellipsis}
+.slider-fields .slider-remove{display:flex;align-items:center;gap:10px;min-height:44px;font-size:13px;margin-block:10px}
+.slider-remove input{width:18px;height:18px;accent-color:var(--blue)}
+.slider-reset-form{margin-top:32px}.slider-reset-form h2{font-size:21px}
+.slider-editor-form .admin-actions .admin-hint{margin:0}
+@media(max-width:1000px){.slider-admin-row{grid-template-columns:1fr;gap:18px}.slider-language-action{padding-inline-start:0;border-inline-start:0}.slider-language-actions{border-block-start:1px solid var(--line);padding-block-start:12px}.slider-current-list{grid-template-columns:repeat(2,minmax(0,1fr))}.slider-dashboard-link{flex-wrap:wrap}}
+@media(max-width:700px){.slider-admin-row{padding:18px}.slider-row-identity{gap:12px}.slider-row-thumb{width:70px;height:60px}.slider-row-identity h3{font-size:17px}.slider-language-actions{gap:16px}.slider-current-heading{display:block}.slider-current-heading>a{display:inline-block;margin-top:12px}.slider-current-list{gap:12px}.slider-current-list p{font-size:12px}.slider-fields{padding:18px}.slider-fields details{padding:13px}.slider-editor-form .admin-actions{position:static}.slider-editor-form .admin-actions .button{width:100%;text-align:center;justify-content:center}.slider-group-tabs a{flex-grow:1;text-align:center;padding-inline:12px}.slider-group-heading h2{font-size:22px}}

@@ -1,0 +1,1081 @@
+{
+  "settings": {
+    "legal_name_ar": "شركة ارض اليرموك للمقاولات العامة و التجارة العامة وتكنولوجيا المعلومات والخدمات العامة والاتصالات ومشاريع الطاقة و الحلول البرمجية الرقمية والذكية والاستثمارات الصناعية محدودة المسؤولية",
+    "legal_name_en": "ARD ALYARMWK CO. For general contracting, general trading, information technology, public services, communications, energy projects, digital and smart software solutions, and industrial investments LTD.",
+    "short_name_ar": "ارض اليرموك",
+    "short_name_en": "ARD ALYARMWK CO.",
+    "phone": "+964 780 144 4552",
+    "email": "info@ard-alyarmwk.com",
+    "address_ar": "العراق، بغداد، حي المتنبي\nمحلة 605، زقاق 2، مبنى 1، عمارة الزهراء",
+    "address_en": "Al-Mutanabbi district, Baghdad, Iraq\nDistrict 605, Alley 2, Building 1, Al-Zahraa Building",
+    "founded": "2017",
+    "whatsapp": "",
+    "map_url": "",
+    "social_links": [],
+    "privacy_retention_note": "لم تعتمد مدة احتفاظ بعد؛ يلزم استكمالها قبل النشر.",
+    "translation_policy": "English content is a proposed translation pending company review; the legal name is verbatim from the cover."
+  },
+  "media": [
+    {
+      "key": "architecture",
+      "file": "architecture-1280.webp",
+      "alt_ar": "واجهة مبنى زجاجي من زاوية معمارية — صورة توضيحية",
+      "alt_en": "Glass building façade from an architectural angle — illustrative image",
+      "source": "Unsplash https://images.unsplash.com/photo-1486406146926-c627a92ad1ab ; license https://unsplash.com/license",
+      "classification": "illustration"
+    },
+    {
+      "key": "energy",
+      "file": "energy-1280.webp",
+      "alt_ar": "ألواح طاقة شمسية في مساحة مفتوحة — صورة توضيحية",
+      "alt_en": "Solar panels in an open landscape — illustrative image",
+      "source": "Unsplash https://images.unsplash.com/photo-1509391366360-2e959784a276 ; license https://unsplash.com/license",
+      "classification": "illustration"
+    },
+    {
+      "key": "trade",
+      "file": "trade-1280.webp",
+      "alt_ar": "حاويات شحن تجارية — صورة توضيحية",
+      "alt_en": "Cargo shipping containers — illustrative image",
+      "source": "Unsplash https://images.unsplash.com/photo-1494412519320-aa613dfb7738 ; license https://unsplash.com/license",
+      "classification": "illustration"
+    },
+    {
+      "key": "industry",
+      "file": "industry-1280.webp",
+      "alt_ar": "أعمال تقنية في بيئة صناعية — صورة توضيحية",
+      "alt_en": "Technical work in an industrial setting — illustrative image",
+      "source": "Unsplash https://images.unsplash.com/photo-1581092921461-eab62e97a780 ; license https://unsplash.com/license",
+      "classification": "illustration"
+    },
+    {
+      "key": "team",
+      "file": "team-1280.webp",
+      "alt_ar": "تخطيط جماعي حول طاولة — صورة توضيحية من الملف التعريفي",
+      "alt_en": "Collaborative planning — illustration from the company profile",
+      "source": "User-provided PDF physical page 4, object 788; supplied corporate reference, underlying stock license not provided.",
+      "classification": "illustration"
+    },
+    {
+      "key": "it",
+      "file": "it-1280.webp",
+      "alt_ar": "مفهوم للبنية التقنية والبيانات — صورة توضيحية من الملف",
+      "alt_en": "Technology and data concept — illustration from the profile",
+      "source": "User-provided PDF physical page 7, object 755; supplied corporate reference, underlying stock license not provided.",
+      "classification": "illustration"
+    },
+    {
+      "key": "software",
+      "file": "software-1280.webp",
+      "alt_ar": "مفهوم للترابط الرقمي — صورة توضيحية من الملف",
+      "alt_en": "Digital connectivity concept — illustration from the profile",
+      "source": "User-provided PDF physical page 8, object 756; supplied corporate reference, underlying stock license not provided.",
+      "classification": "illustration"
+    },
+    {
+      "key": "profile-cover",
+      "file": "profile-cover-c6e9356630-1280.webp",
+      "alt_ar": "الغلاف الأفقي للملف التعريفي الحالي لشركة ارض اليرموك",
+      "alt_en": "Landscape cover of the current ARD ALYARMWK company profile",
+      "source": "Current company-profile.pdf supplied in the workspace, 2026-09-13; all ten pages visually reviewed. The PDF bytes remain unchanged. Cover extracted from page 1.",
+      "classification": "document"
+    },
+    {
+      "key": "logo",
+      "file": "logo.png",
+      "alt_ar": "شعار ارض اليرموك",
+      "alt_en": "ARD ALYARMWK CO. logo",
+      "source": "Original user-provided logo.png, unmodified",
+      "classification": "identity"
+    },
+    {
+      "key": "profile",
+      "file": "../company-profile.pdf",
+      "alt_ar": "الملف التعريفي الرسمي",
+      "alt_en": "Official company profile",
+      "source": "Current company-profile.pdf supplied in the workspace, 2026-09-13; all ten pages visually reviewed. The PDF bytes remain unchanged.",
+      "classification": "document"
+    }
+  ],
+  "items": [
+    {
+      "kind": "sectors",
+      "slug": "general-contracting",
+      "translations": {
+        "ar": {
+          "title": "المقاولات العامة",
+          "summary": "أعمال البناء والتشييد وتطوير البنى التحتية، ضمن نطاق يجمع التنفيذ والإشراف الهندسي ومشاريع الإعمار.",
+          "body": {
+            "eyebrow": "من الفكرة إلى البناء.",
+            "services": [
+              "تنفيذ مشاريع البناء والتشييد",
+              "تطوير البنى التحتية",
+              "إنشاء المجمعات السكنية والتجارية والصناعية",
+              "الإشراف الهندسي وتنفيذ مشاريع الإعمار"
+            ],
+            "sections": []
+          },
+          "seo_title": "المقاولات العامة",
+          "seo_description": "أعمال البناء والتشييد وتطوير البنى التحتية، ضمن نطاق يجمع التنفيذ والإشراف الهندسي ومشاريع الإعمار.",
+          "source_ref": "PDF physical page 6",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "General contracting",
+          "summary": "Construction and infrastructure development, encompassing project delivery, engineering supervision and reconstruction.",
+          "body": {
+            "eyebrow": "From plans to places.",
+            "services": [
+              "Building and construction projects",
+              "Infrastructure development",
+              "Residential, commercial and industrial complexes",
+              "Engineering supervision and reconstruction"
+            ],
+            "sections": []
+          },
+          "seo_title": "General contracting",
+          "seo_description": "Construction and infrastructure development, encompassing project delivery, engineering supervision and reconstruction.",
+          "source_ref": "Proposed translation of PDF physical page 6",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "architecture",
+      "sort_order": 1,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "general-trading",
+      "translations": {
+        "ar": {
+          "title": "التجارة العامة",
+          "summary": "توفير المواد والمستلزمات والتجهيزات المتخصصة لتلبية احتياجات الجهات الحكومية والخاصة.",
+          "body": {
+            "eyebrow": "تجهيز يدعم استمرارية الأعمال.",
+            "services": [
+              "توفير المواد الأولية والمستلزمات الإنشائية",
+              "التجهيزات الكهربائية والميكانيكية",
+              "توريد المعدات التخصصية",
+              "تلبية احتياجات القطاعات الحكومية والخاصة"
+            ],
+            "sections": []
+          },
+          "seo_title": "التجارة العامة",
+          "seo_description": "توفير المواد والمستلزمات والتجهيزات المتخصصة لتلبية احتياجات الجهات الحكومية والخاصة.",
+          "source_ref": "PDF physical page 6",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "General trading",
+          "summary": "Materials, supplies and specialist equipment for the needs of public and private sector organisations.",
+          "body": {
+            "eyebrow": "Supply that supports business.",
+            "services": [
+              "Raw materials and construction supplies",
+              "Electrical and mechanical equipment",
+              "Specialist equipment procurement",
+              "Supply for public and private sectors"
+            ],
+            "sections": []
+          },
+          "seo_title": "General trading",
+          "seo_description": "Materials, supplies and specialist equipment for the needs of public and private sector organisations.",
+          "source_ref": "Proposed translation of PDF physical page 6",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "trade",
+      "sort_order": 2,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "information-technology",
+      "translations": {
+        "ar": {
+          "title": "تكنولوجيا المعلومات",
+          "summary": "حلول للبنى التحتية الرقمية والأنظمة المؤسسية، تدعم إنشاء الشبكات ومراكز البيانات والحوسبة السحابية والتحول الرقمي.",
+          "body": {
+            "eyebrow": "بنية رقمية للأعمال المتطورة.",
+            "services": [
+              "إنشاء الشبكات والأنظمة",
+              "البنى التحتية الرقمية ومراكز البيانات",
+              "الأنظمة المؤسسية ERP وCRM",
+              "خدمات الحوسبة السحابية والتحول الرقمي"
+            ],
+            "sections": []
+          },
+          "seo_title": "تكنولوجيا المعلومات",
+          "seo_description": "حلول للبنى التحتية الرقمية والأنظمة المؤسسية، تدعم إنشاء الشبكات ومراكز البيانات والحوسبة السحابية والتحول الرقمي.",
+          "source_ref": "PDF physical page 6",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Information technology",
+          "summary": "Digital infrastructure and enterprise systems covering networks, data centres, cloud computing and digital transformation.",
+          "body": {
+            "eyebrow": "Digital foundations for business.",
+            "services": [
+              "Networks and systems",
+              "Digital infrastructure and data centres",
+              "Enterprise systems: ERP and CRM",
+              "Cloud computing and digital transformation"
+            ],
+            "sections": []
+          },
+          "seo_title": "Information technology",
+          "seo_description": "Digital infrastructure and enterprise systems covering networks, data centres, cloud computing and digital transformation.",
+          "source_ref": "Proposed translation of PDF physical page 6",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "it",
+      "sort_order": 3,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "general-services",
+      "translations": {
+        "ar": {
+          "title": "الخدمات العامة",
+          "summary": "خدمات تشغيلية ولوجستية مساندة تشمل التوريد والتجهيز وإدارة المواقع ودعم العمليات الميدانية.",
+          "body": {
+            "eyebrow": "دعم تشغيلي يرافق أعمالكم.",
+            "services": [
+              "خدمات التوريد والتجهيز",
+              "إدارة وتشغيل المواقع",
+              "خدمات الدعم الفني",
+              "دعم العمليات الميدانية"
+            ],
+            "sections": []
+          },
+          "seo_title": "الخدمات العامة",
+          "seo_description": "خدمات تشغيلية ولوجستية مساندة تشمل التوريد والتجهيز وإدارة المواقع ودعم العمليات الميدانية.",
+          "source_ref": "PDF physical page 7",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "General services",
+          "summary": "Operational and logistical support including supply, site management and field operations.",
+          "body": {
+            "eyebrow": "Operational support for your work.",
+            "services": [
+              "Supply and provisioning",
+              "Site management and operation",
+              "Technical support services",
+              "Field operations support"
+            ],
+            "sections": []
+          },
+          "seo_title": "General services",
+          "seo_description": "Operational and logistical support including supply, site management and field operations.",
+          "source_ref": "Proposed translation of PDF physical page 7",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "team",
+      "sort_order": 4,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "communications",
+      "translations": {
+        "ar": {
+          "title": "الاتصالات",
+          "summary": "مشاريع اتصالات وتقنيات ربط للمواقع، تشمل شبكات الألياف الضوئية والأنظمة اللاسلكية وأنظمة المراقبة الأمنية.",
+          "body": {
+            "eyebrow": "روابط تصل المواقع والأعمال.",
+            "services": [
+              "تنفيذ مشاريع الاتصالات",
+              "شبكات الألياف الضوئية",
+              "أنظمة المراقبة الأمنية",
+              "أنظمة الاتصالات اللاسلكية وحلول الربط بين المواقع"
+            ],
+            "sections": []
+          },
+          "seo_title": "الاتصالات",
+          "seo_description": "مشاريع اتصالات وتقنيات ربط للمواقع، تشمل شبكات الألياف الضوئية والأنظمة اللاسلكية وأنظمة المراقبة الأمنية.",
+          "source_ref": "PDF physical page 7",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Communications",
+          "summary": "Communications and site connectivity, covering fibre optic networks, wireless communications and security surveillance systems.",
+          "body": {
+            "eyebrow": "Connecting sites and operations.",
+            "services": [
+              "Communications projects",
+              "Fibre optic networks",
+              "Security surveillance systems",
+              "Wireless communications and inter-site connectivity"
+            ],
+            "sections": []
+          },
+          "seo_title": "Communications",
+          "seo_description": "Communications and site connectivity, covering fibre optic networks, wireless communications and security surveillance systems.",
+          "source_ref": "Proposed translation of PDF physical page 7",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "software",
+      "sort_order": 5,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "energy",
+      "translations": {
+        "ar": {
+          "title": "مشاريع الطاقة",
+          "summary": "أنشطة في الطاقة التقليدية والمتجددة، من مشاريع الطاقة الشمسية وأعمال الكهرباء إلى إدارة الطاقة وتشغيل المحطات.",
+          "body": {
+            "eyebrow": "الطاقة اليوم. وآفاق الغد.",
+            "services": [
+              "تجهيز وتنفيذ مشاريع الطاقة الشمسية",
+              "أنظمة إدارة الطاقة للمؤسسات",
+              "أعمال الكهرباء والقدرة",
+              "صيانة وتشغيل محطات الطاقة"
+            ],
+            "sections": []
+          },
+          "seo_title": "مشاريع الطاقة",
+          "seo_description": "أنشطة في الطاقة التقليدية والمتجددة، من مشاريع الطاقة الشمسية وأعمال الكهرباء إلى إدارة الطاقة وتشغيل المحطات.",
+          "source_ref": "PDF physical page 7",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Energy projects",
+          "summary": "Conventional and renewable energy activities, from solar projects and electrical works to energy management and plant operation.",
+          "body": {
+            "eyebrow": "Energy today. Possibilities ahead.",
+            "services": [
+              "Supply and implementation of solar energy projects",
+              "Energy management systems for organisations",
+              "Electrical and power works",
+              "Power plant maintenance and operation"
+            ],
+            "sections": []
+          },
+          "seo_title": "Energy projects",
+          "seo_description": "Conventional and renewable energy activities, from solar projects and electrical works to energy management and plant operation.",
+          "source_ref": "Proposed translation of PDF physical page 7",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "energy",
+      "sort_order": 6,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "digital-solutions",
+      "translations": {
+        "ar": {
+          "title": "الحلول البرمجية الرقمية والذكية",
+          "summary": "تطوير التطبيقات والأنظمة المتخصصة، مع حلول ذكية تدعم العمليات المالية واللوجستية والتحليل المتقدم.",
+          "body": {
+            "eyebrow": "برمجيات تستجيب لاحتياجات الأعمال.",
+            "services": [
+              "التطبيقات الذكية",
+              "الأنظمة المالية والمصرفية",
+              "أنظمة التشغيل اللوجستي",
+              "حلول الذكاء الاصطناعي والتحليل المتقدم"
+            ],
+            "sections": []
+          },
+          "seo_title": "الحلول البرمجية الرقمية والذكية",
+          "seo_description": "تطوير التطبيقات والأنظمة المتخصصة، مع حلول ذكية تدعم العمليات المالية واللوجستية والتحليل المتقدم.",
+          "source_ref": "PDF physical page 8",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Digital & smart software solutions",
+          "summary": "Specialist applications and systems, with smart solutions supporting financial operations, logistics and advanced analytics.",
+          "body": {
+            "eyebrow": "Software shaped around business.",
+            "services": [
+              "Smart applications",
+              "Financial and banking systems",
+              "Logistics operations systems",
+              "Artificial intelligence and advanced analytics"
+            ],
+            "sections": []
+          },
+          "seo_title": "Digital & smart software solutions",
+          "seo_description": "Specialist applications and systems, with smart solutions supporting financial operations, logistics and advanced analytics.",
+          "source_ref": "Proposed translation of PDF physical page 8",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "software",
+      "sort_order": 7,
+      "status": "published"
+    },
+    {
+      "kind": "sectors",
+      "slug": "industrial-investments",
+      "translations": {
+        "ar": {
+          "title": "الاستثمارات الصناعية",
+          "summary": "دعم القطاع الصناعي عبر إنشاء وتجهيز خطوط الإنتاج وتوفير المعدات وتطوير المشاريع الصناعية المبتكرة.",
+          "body": {
+            "eyebrow": "إمكانات تتحول إلى إنتاج.",
+            "services": [
+              "إنشاء وتجهيز خطوط إنتاج",
+              "شراكات صناعية وطنية",
+              "توفير المعدات والخطوط الإنتاجية",
+              "تطوير مشاريع صناعية مبتكرة"
+            ],
+            "sections": []
+          },
+          "seo_title": "الاستثمارات الصناعية",
+          "seo_description": "دعم القطاع الصناعي عبر إنشاء وتجهيز خطوط الإنتاج وتوفير المعدات وتطوير المشاريع الصناعية المبتكرة.",
+          "source_ref": "PDF physical page 8",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Industrial investments",
+          "summary": "Supporting industry through production line development, equipment supply and innovative industrial projects.",
+          "body": {
+            "eyebrow": "Potential into production.",
+            "services": [
+              "Production line development and setup",
+              "National industrial partnerships",
+              "Industrial equipment and production lines",
+              "Innovative industrial project development"
+            ],
+            "sections": []
+          },
+          "seo_title": "Industrial investments",
+          "seo_description": "Supporting industry through production line development, equipment supply and innovative industrial projects.",
+          "source_ref": "Proposed translation of PDF physical page 8",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "industry",
+      "sort_order": 8,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "home",
+      "translations": {
+        "ar": {
+          "title": "نبني بثقة.\nونتقدّم برؤية.",
+          "summary": "ارض اليرموك، شركة عراقية تجمع المقاولات والتجارة والتقنية والطاقة، وتتطلع إلى المساهمة في تطوير الأعمال والبنى التحتية. ",
+          "body": {
+            "eyebrow": "ارض اليرموك · آفاق متعددة",
+            "sections": [
+              {
+                "key": "about",
+                "title": "جذور عراقية.\nوطموح يتّسع.",
+                "text": "من المقاولات والتجارة إلى التقنية والطاقة، تجمع ارض اليرموك مجالات عمل متنوعة ضمن رؤية تسعى إلى النمو والتطوير وخدمة السوق العراقي.",
+                "items": [],
+                "order": 1,
+                "visible": true
+              },
+              {
+                "key": "sectors",
+                "title": "مجالات متنوّعة.\nرؤية واحدة.",
+                "text": "اكتشف نطاق أعمالنا، واختر المجال الذي يلتقي مع احتياجات مشروعك.",
+                "items": [],
+                "order": 2,
+                "visible": true
+              },
+              {
+                "key": "approach",
+                "title": "ما يجمع أعمالنا،\nهو ما نؤمن به.",
+                "text": "مبادئ توجه العمل والعلاقات، كما يوضحها الملف التعريفي للشركة.",
+                "items": [
+                  {
+                    "title": "التخطيط والتطوير",
+                    "text": "تخطيط فعّال وتطوير مستمر للكفاءات والتقنيات."
+                  },
+                  {
+                    "title": "الجودة والالتزام",
+                    "text": "العناية بالمواصفات والدقة في التنفيذ واحترام الجداول الزمنية."
+                  },
+                  {
+                    "title": "علاقات طويلة الأمد",
+                    "text": "الشفافية والمصداقية أساس التعامل مع الجهات الحكومية والخاصة."
+                  }
+                ],
+                "order": 3,
+                "visible": true
+              },
+              {
+                "key": "profile",
+                "title": "تعرّف علينا\nعن قرب.",
+                "text": "رؤيتنا، قيمنا ومجالات عملنا في ملف واحد. تصفّح الملف التعريفي الرسمي لشركة ارض اليرموك.",
+                "items": [],
+                "order": 4,
+                "visible": true
+              },
+              {
+                "key": "cta",
+                "title": "لنبدأ بمحادثة.",
+                "text": "أخبرنا عن احتياجاتك، ودعنا نناقش كيف تتصل بمجالات عملنا.",
+                "items": [],
+                "order": 5,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "نبني بثقة.\nونتقدّم برؤية.",
+          "seo_description": "ارض اليرموك، شركة عراقية تجمع المقاولات والتجارة والتقنية والطاقة، وتتطلع إلى المساهمة في تطوير الأعمال والبنى التحتية. ",
+          "source_ref": "PDF pp. 2, 6–9; editorial synthesis",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Built on trust.\nDriven by vision.",
+          "summary": "An Iraqi company bringing together contracting, trade, technology and energy, seeking to contribute to business and infrastructure development.",
+          "body": {
+            "eyebrow": "ARD ALYARMWK CO. · WIDER HORIZONS",
+            "sections": [
+              {
+                "key": "about",
+                "title": "Iraqi roots.\nWider horizons.",
+                "text": "From contracting and trade to technology and energy, ARD ALYARMWK CO. brings diverse activities together with a vision for growth, development and service to the Iraqi market.",
+                "items": [],
+                "order": 1,
+                "visible": true
+              },
+              {
+                "key": "sectors",
+                "title": "Diverse sectors.\nOne vision.",
+                "text": "Explore our activities and find the sector that connects with your project.",
+                "items": [],
+                "order": 2,
+                "visible": true
+              },
+              {
+                "key": "approach",
+                "title": "Shared principles.\nAcross every field.",
+                "text": "The principles that guide our work and relationships, as set out in our company profile.",
+                "items": [
+                  {
+                    "title": "Planning & development",
+                    "text": "Effective planning and the continuous development of skills and technology."
+                  },
+                  {
+                    "title": "Quality & commitment",
+                    "text": "Attention to specifications, precise execution and respect for schedules."
+                  },
+                  {
+                    "title": "Lasting relationships",
+                    "text": "Transparency and credibility in our relationships with public and private organisations."
+                  }
+                ],
+                "order": 3,
+                "visible": true
+              },
+              {
+                "key": "profile",
+                "title": "A closer look\nat our company.",
+                "text": "Our vision, values and fields of work in one place. Explore the official ARD ALYARMWK CO. profile.",
+                "items": [],
+                "order": 4,
+                "visible": true
+              },
+              {
+                "key": "cta",
+                "title": "Every project starts\nwith a conversation.",
+                "text": "Tell us what you need and let’s discuss how it connects with our fields of work.",
+                "items": [],
+                "order": 5,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "Built on trust.\nDriven by vision.",
+          "seo_description": "An Iraqi company bringing together contracting, trade, technology and energy, seeking to contribute to business and infrastructure development.",
+          "source_ref": "Proposed translation; PDF pp. 2, 6–9",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "architecture",
+      "sort_order": 0,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "about",
+      "translations": {
+        "ar": {
+          "title": "جذور عراقية.\nوطموح يتّسع.",
+          "summary": "نعمل برؤية تجمع تنوّع الأنشطة مع التطوير المستمر.",
+          "body": {
+            "eyebrow": "عن ارض اليرموك",
+            "sections": [
+              {
+                "key": "intro",
+                "title": "من نحن",
+                "text": "تأسست شركة ارض اليرموك عام 2017، وتنشط في المقاولات العامة والتجارة العامة. ومع توسع أعمالها، شملت أنشطتها تكنولوجيا المعلومات والخدمات العامة والاتصالات ومشاريع الطاقة والحلول البرمجية الرقمية والذكية والاستثمارات الصناعية.\n\nتتجه الشركة إلى تلبية احتياجات السوق العراقي من خلال تنوع مجالات العمل، والتخطيط الفعال، وتطوير الكفاءات، والاستفادة من التقنيات الحديثة.",
+                "items": [],
+                "order": 1,
+                "visible": true
+              },
+              {
+                "key": "vision",
+                "title": "رؤيتنا",
+                "text": "تحقيق الريادة في أعمالنا لنكون على قمة الشركات",
+                "items": [],
+                "order": 2,
+                "visible": true
+              },
+              {
+                "key": "mission",
+                "title": "رسالتنا",
+                "text": "مواصلة النمو والتوسع استناداً على أعلى الخبرات والكفاءات البشرية، وأفضل التقنيات الفنية والمعلوماتية، والمحافظة على معايير الجودة والسلامة العالمية، لتحقيق تطلعاتنا لمستقبل مشرق بإذن الله.",
+                "items": [],
+                "order": 3,
+                "visible": true
+              },
+              {
+                "key": "values",
+                "title": "قيمنا",
+                "text": "",
+                "items": [
+                  {
+                    "title": "التعلّم",
+                    "text": "إثراء المعرفة وتبادل الخبرات وتحويل التحديات إلى خبرة مثمرة."
+                  },
+                  {
+                    "title": "الريادة",
+                    "text": "إنتاج المعرفة وتحويل الأفكار الجديدة إلى تطبيقات عملية."
+                  },
+                  {
+                    "title": "الأصالة",
+                    "text": "أفكار مستقلة تستند إلى معرفة راسخة ومبادئ واضحة."
+                  },
+                  {
+                    "title": "المصداقية",
+                    "text": "تقديم الخدمات والمنتجات طبقاً للمواصفات المعلنة."
+                  },
+                  {
+                    "title": "نفع الناس",
+                    "text": "تقديم خدمات مفيدة وقيمة مضافة للمجتمع وشركاء العمل."
+                  }
+                ],
+                "order": 4,
+                "visible": true
+              },
+              {
+                "key": "goals",
+                "title": "نحو مستقبل أكثر اتصالاً",
+                "text": "تضع الشركة التوسع في القطاعات الحيوية داخل العراق، والاستثمار في التكنولوجيا والتحول الرقمي، وتطوير العلاقات طويلة الأمد، ضمن أهدافها الاستراتيجية.",
+                "items": [],
+                "order": 5,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "جذور عراقية.\nوطموح يتّسع.",
+          "seo_description": "نعمل برؤية تجمع تنوّع الأنشطة مع التطوير المستمر.",
+          "source_ref": "PDF physical pages 2–5, 9",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Iraqi roots.\nWider horizons.",
+          "summary": "A vision that brings diverse activities and continuous development together.",
+          "body": {
+            "eyebrow": "ABOUT OUR COMPANY",
+            "sections": [
+              {
+                "key": "intro",
+                "title": "Who we are",
+                "text": "Established in 2017, ARD ALYARMWK CO. operates in general contracting and general trading. Its activities have expanded to include information technology, general services, communications, energy projects, digital and smart software solutions, and industrial investments.\n\nThe company seeks to meet the needs of the Iraqi market through diversified activities, effective planning, skills development and modern technology.",
+                "items": [],
+                "order": 1,
+                "visible": true
+              },
+              {
+                "key": "vision",
+                "title": "Our vision",
+                "text": "To achieve leadership in our fields and stand among the leading companies.",
+                "items": [],
+                "order": 2,
+                "visible": true
+              },
+              {
+                "key": "mission",
+                "title": "Our mission",
+                "text": "To continue growing and expanding through human expertise and skills, technical and information technologies, and a commitment to international quality and safety standards, to realise our aspirations for a bright future, God willing.",
+                "items": [],
+                "order": 3,
+                "visible": true
+              },
+              {
+                "key": "values",
+                "title": "Our values",
+                "text": "",
+                "items": [
+                  {
+                    "title": "Learning",
+                    "text": "Growing knowledge, sharing experience and learning from challenges."
+                  },
+                  {
+                    "title": "Leadership",
+                    "text": "Turning new ideas and knowledge into practical applications."
+                  },
+                  {
+                    "title": "Originality",
+                    "text": "Independent ideas grounded in knowledge and clear principles."
+                  },
+                  {
+                    "title": "Credibility",
+                    "text": "Delivering services and products to their stated specifications."
+                  },
+                  {
+                    "title": "Serving people",
+                    "text": "Useful services and added value for communities and business partners."
+                  }
+                ],
+                "order": 4,
+                "visible": true
+              },
+              {
+                "key": "goals",
+                "title": "Towards a more connected future",
+                "text": "The company’s strategic objectives include expansion in vital sectors in Iraq, investment in technology and digital transformation, and the development of long-term relationships.",
+                "items": [],
+                "order": 5,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "Iraqi roots.\nWider horizons.",
+          "seo_description": "A vision that brings diverse activities and continuous development together.",
+          "source_ref": "Proposed translation; PDF physical pages 2–5, 9",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "team",
+      "sort_order": 1,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "sectors",
+      "translations": {
+        "ar": {
+          "title": "تنوّع يصنع\nفرصاً أوسع.",
+          "summary": "ثمانية مجالات عمل تشمل البناء والتجارة والتقنية والخدمات والطاقة والصناعة، لتلبية احتياجات السوق العراقي.",
+          "body": {
+            "eyebrow": "مجالات أعمالنا",
+            "sections": []
+          },
+          "seo_title": "تنوّع يصنع\nفرصاً أوسع.",
+          "seo_description": "ثمانية مجالات عمل تشمل البناء والتجارة والتقنية والخدمات والطاقة والصناعة، لتلبية احتياجات السوق العراقي.",
+          "source_ref": "PDF physical pages 6–8",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "More fields.\nMore possibilities.",
+          "summary": "Eight fields of work spanning construction, trade, technology, services, energy and industry to meet the needs of the Iraqi market.",
+          "body": {
+            "eyebrow": "OUR SECTORS",
+            "sections": []
+          },
+          "seo_title": "More fields.\nMore possibilities.",
+          "seo_description": "Eight fields of work spanning construction, trade, technology, services, energy and industry to meet the needs of the Iraqi market.",
+          "source_ref": "Proposed translation; PDF physical pages 6–8",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "energy",
+      "sort_order": 2,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "profile",
+      "translations": {
+        "ar": {
+          "title": "رؤيتنا وأعمالنا.\nبين يديك.",
+          "summary": "الملف التعريفي الرسمي لشركة ارض اليرموك؛ نبذة عن الشركة ورؤيتها ورسالتها وقيمها وأنشطتها وأهدافها الاستراتيجية.",
+          "body": {
+            "eyebrow": "الملف التعريفي",
+            "sections": [
+              {
+                "key": "contents",
+                "title": "داخل الملف",
+                "text": "",
+                "items": [
+                  {
+                    "title": "الشركة ورؤيتها",
+                    "text": "التعريف بالشركة والرؤية والرسالة."
+                  },
+                  {
+                    "title": "القيم والأهداف",
+                    "text": "المبادئ والأهداف التي توجه أعمال الشركة."
+                  },
+                  {
+                    "title": "مجالات العمل",
+                    "text": "مجالات العمل وبيانات الاتصال الرسمية."
+                  }
+                ],
+                "order": 0,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "رؤيتنا وأعمالنا.\nبين يديك.",
+          "seo_description": "الملف التعريفي الرسمي لشركة ارض اليرموك؛ نبذة عن الشركة ورؤيتها ورسالتها وقيمها وأنشطتها وأهدافها الاستراتيجية.",
+          "source_ref": "User-supplied original 10-page PDF",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Our vision and work.\nIn your hands.",
+          "summary": "The official ARD ALYARMWK CO. profile: an introduction to the company, its vision, mission, values, activities and strategic objectives.",
+          "body": {
+            "eyebrow": "COMPANY PROFILE",
+            "sections": [
+              {
+                "key": "contents",
+                "title": "Inside the profile",
+                "text": "",
+                "items": [
+                  {
+                    "title": "Company & vision",
+                    "text": "Company introduction, vision and mission."
+                  },
+                  {
+                    "title": "Values & objectives",
+                    "text": "The principles and objectives guiding our work."
+                  },
+                  {
+                    "title": "Fields of work",
+                    "text": "Business activities and official contact details."
+                  }
+                ],
+                "order": 0,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "Our vision and work.\nIn your hands.",
+          "seo_description": "The official ARD ALYARMWK CO. profile: an introduction to the company, its vision, mission, values, activities and strategic objectives.",
+          "source_ref": "Proposed translation; original PDF is Arabic with English cover",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": "profile-cover",
+      "sort_order": 3,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "contact",
+      "translations": {
+        "ar": {
+          "title": "لنتحدث عن\nمشروعك القادم.",
+          "summary": "شاركنا احتياجاتك أو استفسارك، وحدد القطاع المناسب ليتسنى لنا متابعة رسالتك.",
+          "body": {
+            "eyebrow": "اتصل بنا",
+            "sections": []
+          },
+          "seo_title": "لنتحدث عن\nمشروعك القادم.",
+          "seo_description": "شاركنا احتياجاتك أو استفسارك، وحدد القطاع المناسب ليتسنى لنا متابعة رسالتك.",
+          "source_ref": "Contact PDF physical page 10; form copy editorial",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Let’s talk about\nyour next project.",
+          "summary": "Share your requirements or enquiry and choose a relevant sector so we can follow up on your message.",
+          "body": {
+            "eyebrow": "GET IN TOUCH",
+            "sections": []
+          },
+          "seo_title": "Let’s talk about\nyour next project.",
+          "seo_description": "Share your requirements or enquiry and choose a relevant sector so we can follow up on your message.",
+          "source_ref": "Proposed translation; contact PDF physical page 10",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": null,
+      "sort_order": 4,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "privacy",
+      "translations": {
+        "ar": {
+          "title": "الخصوصية وبيانات التواصل",
+          "summary": "توضح هذه الصفحة البيانات التي يعالجها الموقع عند إرسال استفسار، وكيفية استخدامها وحمايتها.",
+          "body": {
+            "eyebrow": "بياناتك",
+            "sections": [
+              {
+                "key": "collection",
+                "title": "البيانات التي نجمعها",
+                "text": "عند استخدام نموذج التواصل، نجمع الاسم والبريد الإلكتروني والرسالة. الشركة ورقم الهاتف والقطاع حقول اختيارية. تُحفظ لغة الرسالة وتاريخ إرسالها ورقمها المرجعي وحالة متابعتها.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "use",
+                "title": "كيف نستخدم بياناتك",
+                "text": "تستخدم الشركة بيانات التواصل للرد على الاستفسارات ومتابعة طلبات الأعمال. لا تُستخدم لإرسال حملات تسويقية من هذا الموقع. يُحفظ الطلب في قاعدة البيانات قبل تأكيد استلامه. عند تفعيل إشعارات البريد، يُرسل إلى البريد الإداري رقم الطلب ورابط لوحة الإدارة دون نص الرسالة.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "security",
+                "title": "التخزين والحماية",
+                "text": "الوصول إلى الرسائل محصور بالمسؤولين المخولين في لوحة الإدارة. يستخدم الموقع ملفات ارتباط ضرورية للجلسة وحماية النماذج؛ ولا يضيف أدوات تحليلات أو إعلانات. تُستخدم بصمة مشفرة لعنوان الاتصال لتحديد معدل الطلبات، وبصمة لمحتوى الرسالة لمنع التكرار؛ ولا يسجل التطبيق عنوان الاتصال الخام في قاعدة البيانات. قد تسجل خدمة الاستضافة بيانات وصول تقنية ضمن إعداداتها. يُحفظ اختيار النمط النهاري أو الليلي في متصفحك لتطبيقه عند عودتك، ولا يُرسل هذا الاختيار إلى الخادم. يمكنك تغيير الاختيار من زر النمط أو مسحه ضمن بيانات الموقع في متصفحك.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "rights",
+                "title": "التواصل بشأن بياناتك",
+                "text": "للاستفسار عن بياناتك أو طلب تصحيحها أو حذفها، راسل البريد الرسمي للشركة مع ذكر رقم الرسالة إن توفر. يمكن للمسؤول حذف الرسائل من لوحة الإدارة. تبقى الرسائل محفوظة إلى أن تُحذف، ولا توجد حالياً عملية حذف تلقائي.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "third",
+                "title": "الملفات والروابط",
+                "text": "تُحمّل الصور والخطوط والملف التعريفي من الموقع نفسه. لا تُحمّل خريطة أو خدمة خارجية تلقائياً. روابط الهاتف والبريد تفتح التطبيقات المناسبة على جهازك.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "الخصوصية وبيانات التواصل",
+          "seo_description": "توضح هذه الصفحة البيانات التي يعالجها الموقع عند إرسال استفسار، وكيفية استخدامها وحمايتها.",
+          "source_ref": "Implemented functionality; retention policy pending",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Privacy & contact data",
+          "summary": "This page explains the information the site processes when you send an enquiry, how it is used and how it is protected.",
+          "body": {
+            "eyebrow": "YOUR INFORMATION",
+            "sections": [
+              {
+                "key": "collection",
+                "title": "Information we collect",
+                "text": "The contact form collects your name, email address and message. Company, phone number and sector are optional. We also store the message language, submission date, reference and follow-up status.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "use",
+                "title": "How we use information",
+                "text": "Contact information is used to respond to enquiries and follow up on business requests. This site does not use it for marketing campaigns. Requests are saved before receipt is confirmed. When email notifications are enabled, only the request reference and an admin link are emailed, without the message body.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "security",
+                "title": "Storage and protection",
+                "text": "Messages are accessible to authorised administrators. The site uses essential session and form-security cookies, with no analytics or advertising tools. A keyed hash of the connection address limits request frequency; a message fingerprint prevents duplicates. The application does not store the raw connection address in its database. The hosting service may keep technical access logs according to its configuration. Your light or dark mode preference is saved in your browser for future visits and is not sent to the server. You can change it using the theme button or remove it by clearing this site’s browser data.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "rights",
+                "title": "Contact about your data",
+                "text": "To ask about your data or request correction or deletion, contact the company’s official email and include your message reference if available. Administrators can delete messages. Messages remain stored until deleted, and no automatic deletion process currently runs.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              },
+              {
+                "key": "third",
+                "title": "Files and external links",
+                "text": "Images, fonts and the company profile are served by this site. No external map or service loads automatically. Phone and email links open the relevant apps on your device.",
+                "items": [],
+                "order": 0,
+                "visible": true
+              }
+            ]
+          },
+          "seo_title": "Privacy & contact data",
+          "seo_description": "This page explains the information the site processes when you send an enquiry, how it is used and how it is protected.",
+          "source_ref": "Proposed translation; implemented functionality",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": null,
+      "sort_order": 5,
+      "status": "published"
+    },
+    {
+      "kind": "pages",
+      "slug": "projects",
+      "translations": {
+        "ar": {
+          "title": "أعمالنا",
+          "summary": "تعرّف على المشاريع المنشورة ونطاق العمل في كل منها.",
+          "body": {
+            "eyebrow": "المشاريع",
+            "sections": []
+          },
+          "seo_title": "أعمالنا",
+          "seo_description": "تعرّف على المشاريع المنشورة ونطاق العمل في كل منها.",
+          "source_ref": "No project evidence in supplied PDF; hidden until approved project added",
+          "approval": "approved",
+          "status": "published"
+        },
+        "en": {
+          "title": "Our work",
+          "summary": "Explore published projects and the scope of work for each.",
+          "body": {
+            "eyebrow": "PROJECTS",
+            "sections": []
+          },
+          "seo_title": "Our work",
+          "seo_description": "Explore published projects and the scope of work for each.",
+          "source_ref": "Proposed translation; no published projects",
+          "approval": "review",
+          "status": "published"
+        }
+      },
+      "image": null,
+      "sort_order": 6,
+      "status": "published"
+    }
+  ]
+}

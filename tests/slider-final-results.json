@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Authenticated draft-slide preview; visitor cannot enable preview using query string",
+    "passed": true
+  },
+  {
+    "name": "Slide editor reviewed at 375, 768 and 1440 pixels; refreshed bilingual profile screenshots and PDF rendering",
+    "passed": true
+  }
+]

@@ -1,0 +1,6 @@
+<section class="container inner-hero split-heading"><div><p class="eyebrow"><?=e($row['body']['eyebrow']??'')?></p><h1><?=nl2br(e($row['title']))?></h1></div><p class="large-copy"><?=e($row['summary'])?></p></section>
+<div class="container page-showcase"><?php page_slider($row,'pages','about');?></div>
+<?php foreach(sections($row) as $s):?>
+<section id="about-<?=e($s['key'])?>" class="section container about-block about-<?=e($s['key'])?>"><h2><?=e($s['title'])?></h2><div class="prose"><?=paragraphs($s['text'])?><?php if($s['key']==='intro'):?><p class="legal-name-box"><?=e(full_name())?></p><?php endif;?><?php if($s['items']??[]):?><div class="values-list"><?php foreach($s['items'] as $i=>$v):?><article><span dir="ltr"><?=sprintf('%02d',$i+1)?></span><h3><?=e($v['title'])?></h3><p><?=e($v['text'])?></p></article><?php endforeach;?></div><?php endif;?></div></section>
+<?php endforeach;$s=['title'=>t('تعرّف على مجالات عملنا.','Explore our fields of work.'),'text'=>t('ثمانية قطاعات ضمن رؤية متكاملة.','Eight sectors within a shared vision.')];?>
+<section class="container section simple-cta"><h2><?=e($s['title'])?></h2><a class="button" href="<?=url('sectors')?>"><?=t('اكتشف قطاعاتنا','Explore our sectors')?> <span class="arrow" aria-hidden="true">↗</span></a></section>

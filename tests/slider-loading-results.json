@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Delayed image response retains previous slide until decode, then changes image and controls together",
+    "passed": true
+  }
+]

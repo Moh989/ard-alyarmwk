@@ -1,0 +1,58 @@
+[
+  {
+    "name": "90 page / language / viewport combinations, 276 slides: no overflow, clipping or height changes",
+    "passed": true
+  },
+  {
+    "name": "Manual arrows, numbered controls, RTL/LTR arrow keys, Home/End, focus and reduced motion",
+    "passed": true
+  },
+  {
+    "name": "Real browser touch input: horizontal swipe in both directions and normal vertical scrolling",
+    "passed": true
+  },
+  {
+    "name": "All slides server-rendered and direct links usable without JavaScript",
+    "passed": true
+  },
+  {
+    "name": "Opening film remains selected before it ends",
+    "passed": true
+  },
+  {
+    "name": "No browser JavaScript errors",
+    "passed": true
+  },
+  {
+    "name": "Slide drafts stay unpublished and uploaded slide-only media stays private",
+    "passed": true
+  },
+  {
+    "name": "Published custom text, image and CTA persist; output escaped; one slide has no inactive controls",
+    "passed": true
+  },
+  {
+    "name": "Arabic customisation leaves the English translation independent",
+    "passed": true
+  },
+  {
+    "name": "Custom slide ordering reaches public carousel",
+    "passed": true
+  },
+  {
+    "name": "Four custom slides with maximum text lengths fit all three widths without content jumps",
+    "passed": true
+  },
+  {
+    "name": "Server rejects executable URLs and non-image media for custom slides",
+    "passed": true
+  },
+  {
+    "name": "English slides persist separately and production content-approval filter remains enforced",
+    "passed": true
+  },
+  {
+    "name": "Returning custom slides to draft restores source-backed automatic slides",
+    "passed": true
+  }
+]

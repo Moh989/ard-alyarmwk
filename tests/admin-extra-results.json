@@ -1,0 +1,22 @@
+[
+  {
+    "name": "All main admin screens fit 375, 768 and 1440 pixels",
+    "passed": true
+  },
+  {
+    "name": "Uploaded logo, edited alt text and settings reflected in public header",
+    "passed": true
+  },
+  {
+    "name": "Original PDF upload, setting replacement, live viewer and byte-range delivery",
+    "passed": true
+  },
+  {
+    "name": "English contact form persists a message and displays English confirmation",
+    "passed": true
+  },
+  {
+    "name": "Saved section order reflected by server-rendered page",
+    "passed": true
+  }
+]

@@ -1,0 +1,595 @@
+{
+  "pages": 28,
+  "links": 48,
+  "issues": [],
+  "meta": [
+    {
+      "path": "/ar/",
+      "title": "نبني بثقة. ونتقدّم برؤية. | ارض اليرموك",
+      "desc": "ارض اليرموك، شركة عراقية تجمع المقاولات والتجارة والتقنية والطاقة، وتتطلع إلى المساهمة في تطوير الأعمال والبنى التحتية. ",
+      "canonical": "http://127.0.0.1:8088/ar/",
+      "og": "نبني بثقة. ونتقدّم برؤية.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/"
+        }
+      ]
+    },
+    {
+      "path": "/en/",
+      "title": "Built on trust. Driven by vision. | ARD ALYARMWK CO.",
+      "desc": "An Iraqi company bringing together contracting, trade, technology and energy, seeking to contribute to business and infrastructure development.",
+      "canonical": "http://127.0.0.1:8088/en/",
+      "og": "Built on trust. Driven by vision.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/"
+        }
+      ]
+    },
+    {
+      "path": "/ar/about",
+      "title": "جذور عراقية. وطموح يتّسع. | ارض اليرموك",
+      "desc": "نعمل برؤية تجمع تنوّع الأنشطة مع التطوير المستمر.",
+      "canonical": "http://127.0.0.1:8088/ar/about",
+      "og": "جذور عراقية. وطموح يتّسع.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/about"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/about"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/about"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors",
+      "title": "تنوّع يصنع فرصاً أوسع. | ارض اليرموك",
+      "desc": "ثمانية مجالات عمل تشمل البناء والتجارة والتقنية والخدمات والطاقة والصناعة، لتلبية احتياجات السوق العراقي.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors",
+      "og": "تنوّع يصنع فرصاً أوسع.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/general-contracting",
+      "title": "المقاولات العامة | ارض اليرموك",
+      "desc": "أعمال البناء والتشييد وتطوير البنى التحتية، ضمن نطاق يجمع التنفيذ والإشراف الهندسي ومشاريع الإعمار.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/general-contracting",
+      "og": "المقاولات العامة",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-contracting"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-contracting"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-contracting"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/general-trading",
+      "title": "التجارة العامة | ارض اليرموك",
+      "desc": "توفير المواد والمستلزمات والتجهيزات المتخصصة لتلبية احتياجات الجهات الحكومية والخاصة.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/general-trading",
+      "og": "التجارة العامة",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-trading"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-trading"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-trading"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/information-technology",
+      "title": "تكنولوجيا المعلومات | ارض اليرموك",
+      "desc": "حلول للبنى التحتية الرقمية والأنظمة المؤسسية، تدعم إنشاء الشبكات ومراكز البيانات والحوسبة السحابية والتحول الرقمي.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/information-technology",
+      "og": "تكنولوجيا المعلومات",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/information-technology"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/information-technology"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/information-technology"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/general-services",
+      "title": "الخدمات العامة | ارض اليرموك",
+      "desc": "خدمات تشغيلية ولوجستية مساندة تشمل التوريد والتجهيز وإدارة المواقع ودعم العمليات الميدانية.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/general-services",
+      "og": "الخدمات العامة",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-services"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-services"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-services"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/communications",
+      "title": "الاتصالات | ارض اليرموك",
+      "desc": "مشاريع اتصالات وتقنيات ربط للمواقع، تشمل شبكات الألياف الضوئية والأنظمة اللاسلكية وأنظمة المراقبة الأمنية.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/communications",
+      "og": "الاتصالات",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/communications"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/communications"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/communications"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/energy",
+      "title": "مشاريع الطاقة | ارض اليرموك",
+      "desc": "أنشطة في الطاقة التقليدية والمتجددة، من مشاريع الطاقة الشمسية وأعمال الكهرباء إلى إدارة الطاقة وتشغيل المحطات.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/energy",
+      "og": "مشاريع الطاقة",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/energy"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/energy"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/energy"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/digital-solutions",
+      "title": "الحلول البرمجية الرقمية والذكية | ارض اليرموك",
+      "desc": "تطوير التطبيقات والأنظمة المتخصصة، مع حلول ذكية تدعم العمليات المالية واللوجستية والتحليل المتقدم.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/digital-solutions",
+      "og": "الحلول البرمجية الرقمية والذكية",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/digital-solutions"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/digital-solutions"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/digital-solutions"
+        }
+      ]
+    },
+    {
+      "path": "/ar/sectors/industrial-investments",
+      "title": "الاستثمارات الصناعية | ارض اليرموك",
+      "desc": "دعم القطاع الصناعي عبر إنشاء وتجهيز خطوط الإنتاج وتوفير المعدات وتطوير المشاريع الصناعية المبتكرة.",
+      "canonical": "http://127.0.0.1:8088/ar/sectors/industrial-investments",
+      "og": "الاستثمارات الصناعية",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/industrial-investments"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/industrial-investments"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/industrial-investments"
+        }
+      ]
+    },
+    {
+      "path": "/ar/profile",
+      "title": "رؤيتنا وأعمالنا. بين يديك. | ارض اليرموك",
+      "desc": "الملف التعريفي الرسمي لشركة ارض اليرموك؛ نبذة عن الشركة ورؤيتها ورسالتها وقيمها وأنشطتها وأهدافها الاستراتيجية.",
+      "canonical": "http://127.0.0.1:8088/ar/profile",
+      "og": "رؤيتنا وأعمالنا. بين يديك.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/profile"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/profile"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/profile"
+        }
+      ]
+    },
+    {
+      "path": "/ar/contact",
+      "title": "لنتحدث عن مشروعك القادم. | ارض اليرموك",
+      "desc": "شاركنا احتياجاتك أو استفسارك، وحدد القطاع المناسب ليتسنى لنا متابعة رسالتك.",
+      "canonical": "http://127.0.0.1:8088/ar/contact",
+      "og": "لنتحدث عن مشروعك القادم.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/contact"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/contact"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/contact"
+        }
+      ]
+    },
+    {
+      "path": "/ar/privacy",
+      "title": "الخصوصية وبيانات التواصل | ارض اليرموك",
+      "desc": "توضح هذه الصفحة البيانات التي يعالجها الموقع عند إرسال استفسار، وكيفية استخدامها وحمايتها.",
+      "canonical": "http://127.0.0.1:8088/ar/privacy",
+      "og": "الخصوصية وبيانات التواصل",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/privacy"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/privacy"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/privacy"
+        }
+      ]
+    },
+    {
+      "path": "/en/about",
+      "title": "Iraqi roots. Wider horizons. | ARD ALYARMWK CO.",
+      "desc": "A vision that brings diverse activities and continuous development together.",
+      "canonical": "http://127.0.0.1:8088/en/about",
+      "og": "Iraqi roots. Wider horizons.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/about"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/about"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/about"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors",
+      "title": "More fields. More possibilities. | ARD ALYARMWK CO.",
+      "desc": "Eight fields of work spanning construction, trade, technology, services, energy and industry to meet the needs of the Iraqi market.",
+      "canonical": "http://127.0.0.1:8088/en/sectors",
+      "og": "More fields. More possibilities.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/general-contracting",
+      "title": "General contracting | ARD ALYARMWK CO.",
+      "desc": "Construction and infrastructure development, encompassing project delivery, engineering supervision and reconstruction.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/general-contracting",
+      "og": "General contracting",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-contracting"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-contracting"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-contracting"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/general-trading",
+      "title": "General trading | ARD ALYARMWK CO.",
+      "desc": "Materials, supplies and specialist equipment for the needs of public and private sector organisations.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/general-trading",
+      "og": "General trading",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-trading"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-trading"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-trading"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/information-technology",
+      "title": "Information technology | ARD ALYARMWK CO.",
+      "desc": "Digital infrastructure and enterprise systems covering networks, data centres, cloud computing and digital transformation.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/information-technology",
+      "og": "Information technology",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/information-technology"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/information-technology"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/information-technology"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/general-services",
+      "title": "General services | ARD ALYARMWK CO.",
+      "desc": "Operational and logistical support including supply, site management and field operations.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/general-services",
+      "og": "General services",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-services"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/general-services"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/general-services"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/communications",
+      "title": "Communications | ARD ALYARMWK CO.",
+      "desc": "Communications and site connectivity, covering fibre optic networks, wireless communications and security surveillance systems.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/communications",
+      "og": "Communications",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/communications"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/communications"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/communications"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/energy",
+      "title": "Energy projects | ARD ALYARMWK CO.",
+      "desc": "Conventional and renewable energy activities, from solar projects and electrical works to energy management and plant operation.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/energy",
+      "og": "Energy projects",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/energy"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/energy"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/energy"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/digital-solutions",
+      "title": "Digital & smart software solutions | ARD ALYARMWK CO.",
+      "desc": "Specialist applications and systems, with smart solutions supporting financial operations, logistics and advanced analytics.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/digital-solutions",
+      "og": "Digital & smart software solutions",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/digital-solutions"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/digital-solutions"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/digital-solutions"
+        }
+      ]
+    },
+    {
+      "path": "/en/sectors/industrial-investments",
+      "title": "Industrial investments | ARD ALYARMWK CO.",
+      "desc": "Supporting industry through production line development, equipment supply and innovative industrial projects.",
+      "canonical": "http://127.0.0.1:8088/en/sectors/industrial-investments",
+      "og": "Industrial investments",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/sectors/industrial-investments"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/sectors/industrial-investments"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/sectors/industrial-investments"
+        }
+      ]
+    },
+    {
+      "path": "/en/profile",
+      "title": "Our vision and work. In your hands. | ARD ALYARMWK CO.",
+      "desc": "The official ARD ALYARMWK CO. profile: an introduction to the company, its vision, mission, values, activities and strategic objectives.",
+      "canonical": "http://127.0.0.1:8088/en/profile",
+      "og": "Our vision and work. In your hands.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/profile"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/profile"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/profile"
+        }
+      ]
+    },
+    {
+      "path": "/en/contact",
+      "title": "Let’s talk about your next project. | ARD ALYARMWK CO.",
+      "desc": "Share your requirements or enquiry and choose a relevant sector so we can follow up on your message.",
+      "canonical": "http://127.0.0.1:8088/en/contact",
+      "og": "Let’s talk about your next project.",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/contact"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/contact"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/contact"
+        }
+      ]
+    },
+    {
+      "path": "/en/privacy",
+      "title": "Privacy & contact data | ARD ALYARMWK CO.",
+      "desc": "This page explains the information the site processes when you send an enquiry, how it is used and how it is protected.",
+      "canonical": "http://127.0.0.1:8088/en/privacy",
+      "og": "Privacy & contact data",
+      "hreflang": [
+        {
+          "lang": "ar",
+          "href": "http://127.0.0.1:8088/ar/privacy"
+        },
+        {
+          "lang": "en",
+          "href": "http://127.0.0.1:8088/en/privacy"
+        },
+        {
+          "lang": "x-default",
+          "href": "http://127.0.0.1:8088/ar/privacy"
+        }
+      ]
+    }
+  ]
+}

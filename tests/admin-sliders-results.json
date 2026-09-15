@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "name": "Protected slider centre lists all 15 existing pages/sectors with 30 independent language editors",
+      "passed": true
+    },
+    {
+      "name": "CSRF, route identifiers and mismatched save destinations are rejected",
+      "passed": true
+    },
+    {
+      "name": "Standalone save reaches the public home slider, keeps the optimized video and leaves page content, SEO, publication and English untouched",
+      "passed": true
+    },
+    {
+      "name": "About slider is independent; draft slides stay private and preview escapes HTML",
+      "passed": true
+    },
+    {
+      "name": "Each sector and language saves independently without changing translation approval",
+      "passed": true
+    },
+    {
+      "name": "Transactional slider-only save preserves concurrent page edits; stale slider tabs cannot overwrite newer changes",
+      "passed": true
+    },
+    {
+      "name": "Malformed, incomplete, excess and unsafe slides fail server validation without partial writes",
+      "passed": true
+    },
+    {
+      "name": "Reset restores the original home film; removing a slide affects only its selected language",
+      "passed": true
+    },
+    {
+      "name": "New project drafts appear automatically; missing translations and undocumented project images remain guarded",
+      "passed": true
+    },
+    {
+      "name": "The existing content editor remains connected to the same slider data and validation",
+      "passed": true
+    },
+    {
+      "name": "18 responsive layouts captured: slider centre and Arabic/English editors, light/dark, 375/768/1440",
+      "passed": true
+    },
+    {
+      "name": "Navigation, native slide controls and database save work without JavaScript",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "violations": []
+}

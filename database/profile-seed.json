@@ -1,0 +1,26 @@
+{
+  "pdf": {
+    "path": "/assets/company-profile.pdf",
+    "bytes": 106978045,
+    "sha256": "c6e9356630ef961300e310a5eede210f584cb64fb647ed8c10f8573ad50d449f",
+    "pages": 10,
+    "orientation": "landscape"
+  },
+  "covers": {
+    "1280": {
+      "path": "/assets/images/profile-cover-c6e9356630-1280.webp",
+      "width": 1280,
+      "height": 906,
+      "bytes": 101162,
+      "sha256": "6a27b4298d9352dc62a74b36322788316eb163af7388a372bb2c2af2e3d54351"
+    },
+    "640": {
+      "path": "/assets/images/profile-cover-c6e9356630-640.webp",
+      "width": 640,
+      "height": 453,
+      "bytes": 38050,
+      "sha256": "6e17cb7dabc721a2bb9efce7b924f24b439669713206739d48ca0eeedd90a227"
+    }
+  },
+  "source": "Current company-profile.pdf supplied in the workspace, 2026-09-13; all ten pages visually reviewed. The PDF bytes remain unchanged."
+}

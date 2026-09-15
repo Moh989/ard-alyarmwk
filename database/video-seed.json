@@ -1,0 +1,64 @@
+{
+  "duration": 10.54,
+  "silent": true,
+  "source": {
+    "name": "Comp 1.mp4",
+    "bytes": 19549366,
+    "sha256": "427eef85b26e755e895650682361325fef9445d596d49ddc5c916aefbe8fd8e6"
+  },
+  "assets": {
+    "desktop": {
+      "path": "/assets/video/company-film-desktop-f0371d5838.mp4",
+      "mime": "video/mp4",
+      "width": 1280,
+      "height": 720,
+      "alt_ar": "رافعات ومبانٍ عند الغروب، مع شعار واسم ارض اليرموك — مشاهد توضيحية",
+      "alt_en": "Cranes and buildings at sunset with the ARD ALYARMWK logo and Arabic company name — illustrative footage",
+      "classification": "illustration",
+      "source": "User-provided Comp 1.mp4, approved for this website in the 2026-09-13 request. Promotional imagery; not evidence of a completed company project. Original SHA-256: 427eef85b26e755e895650682361325fef9445d596d49ddc5c916aefbe8fd8e6"
+    },
+    "mobile": {
+      "path": "/assets/video/company-film-mobile-f291b65a44.mp4",
+      "mime": "video/mp4",
+      "width": 854,
+      "height": 480,
+      "alt_ar": "رافعات ومبانٍ عند الغروب، مع شعار واسم ارض اليرموك — مشاهد توضيحية",
+      "alt_en": "Cranes and buildings at sunset with the ARD ALYARMWK logo and Arabic company name — illustrative footage",
+      "classification": "illustration",
+      "source": "User-provided Comp 1.mp4, approved for this website in the 2026-09-13 request. Promotional imagery; not evidence of a completed company project. Original SHA-256: 427eef85b26e755e895650682361325fef9445d596d49ddc5c916aefbe8fd8e6"
+    },
+    "poster": {
+      "path": "/assets/images/company-film-poster-d8d3af1a57-1280.webp",
+      "mime": "image/webp",
+      "width": 1280,
+      "height": 720,
+      "alt_ar": "رافعات ومبانٍ عند الغروب، مع شعار واسم ارض اليرموك — مشاهد توضيحية",
+      "alt_en": "Cranes and buildings at sunset with the ARD ALYARMWK logo and Arabic company name — illustrative footage",
+      "classification": "illustration",
+      "source": "User-provided Comp 1.mp4, approved for this website in the 2026-09-13 request. Promotional imagery; not evidence of a completed company project. Original SHA-256: 427eef85b26e755e895650682361325fef9445d596d49ddc5c916aefbe8fd8e6"
+    }
+  },
+  "measurements": {
+    "desktop": {
+      "bytes": 790697,
+      "sha256": "f0371d583868651d6b67942f39e5b623fb88dbb1d236aa4182f8978381313457",
+      "path": "/assets/video/company-film-desktop-f0371d5838.mp4"
+    },
+    "mobile": {
+      "bytes": 342850,
+      "sha256": "f291b65a44b58c09fb0c9faee641ac9c376b233b2feb69b20b354bdbdf41783b",
+      "path": "/assets/video/company-film-mobile-f291b65a44.mp4"
+    },
+    "poster": {
+      "bytes": 30170,
+      "sha256": "d8d3af1a576677b6a0cff51b546f9c1b2dc8522835d31fc80296e3bc77bbb438",
+      "path": "/assets/images/company-film-poster-d8d3af1a57-1280.webp"
+    },
+    "poster_mobile": {
+      "bytes": 8970,
+      "path": "/assets/images/company-film-poster-d8d3af1a57-640.webp"
+    }
+  },
+  "encoding": "H.264 High level 3.1, yuv420p, 24fps, CRF 25/26, faststart; no audio stream",
+  "ffmpeg_version": "ffmpeg version 7.1 Copyright (c) 2000-2024 the FFmpeg developers"
+}

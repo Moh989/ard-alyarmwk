@@ -1,0 +1,200 @@
+{
+    "automated_checks_passed": false,
+    "checks": [
+        {
+            "check": "PHP 8.2+",
+            "passed": true,
+            "detail": "Tested locally on PHP 8.5.7."
+        },
+        {
+            "check": "Extension pdo_mysql",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Extension mbstring",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Extension fileinfo",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Extension gd",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Extension openssl",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Extension zip",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Production configuration",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Real HTTPS base URL",
+            "passed": false,
+            "detail": "Checks the configured URL only; DNS and TLS must be tested on the hosting server."
+        },
+        {
+            "check": "Secure session cookies",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Approved content required",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Application key",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Composer dependencies",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Database connection",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Administrator created",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Content approval ar",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Content approval en",
+            "passed": false,
+            "detail": "pages/home, pages/about, pages/sectors, pages/profile, pages/contact, pages/privacy, sectors/general-contracting, sectors/general-trading, sectors/information-technology, sectors/general-services, sectors/communications, sectors/energy, sectors/digital-solutions, sectors/industrial-investments"
+        },
+        {
+            "check": "Required page ar/home",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/home",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Required page ar/about",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/about",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Required page ar/sectors",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/sectors",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Required page ar/profile",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/profile",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Required page ar/contact",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/contact",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Required page ar/privacy",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Required page en/privacy",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Eight approved sectors ar",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Eight approved sectors en",
+            "passed": false,
+            "detail": ""
+        },
+        {
+            "check": "Media files present",
+            "passed": true,
+            "detail": "Missing IDs: "
+        },
+        {
+            "check": "Optimised profile linked",
+            "passed": true,
+            "detail": "Run php bin/install-profile-web.php after copying the release files."
+        },
+        {
+            "check": "SMTP configuration complete",
+            "passed": false,
+            "detail": "No email is sent by this check. Verify actual delivery after configuration."
+        },
+        {
+            "check": "Writable storage",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Writable storage/uploads",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Writable storage/logs",
+            "passed": true,
+            "detail": ""
+        },
+        {
+            "check": "Writable storage/mail",
+            "passed": true,
+            "detail": ""
+        }
+    ],
+    "manual_checks": [
+        "Confirm company approval of both languages, contact details and asset rights.",
+        "Verify hosting document root, HTTPS, cron, real mail delivery and backup schedule.",
+        "Check public pages and administration on the final domain."
+    ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Current PDF first page loads through byte ranges without downloading the full original",
+    "passed": true,
+    "firstPageBytes": 2842257,
+    "originalBytes": 106978045,
+    "rangeRequests": 10
+  },
+  {
+    "name": "Current original remains byte-identical; metadata, 206 ranges and invalid-range rejection match its real size",
+    "passed": true
+  },
+  {
+    "name": "Current landscape cover, accurate file size, stable profile slides and home banner fit both languages at 375/768/1440",
+    "passed": true
+  },
+  {
+    "name": "Optimised PDF download remains available without JavaScript",
+    "passed": true
+  }
+]

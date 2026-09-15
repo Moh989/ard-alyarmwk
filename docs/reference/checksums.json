@@ -1,0 +1,26 @@
+[
+  {
+    "source": "/Users/photoshop/Library/CloudStorage/OneDrive-AlNahala/هارد الشركة/شركة ارض اليرموك/logo.png",
+    "destination": "public/assets/images/logo.png",
+    "sha256": "ccb98452be1a3c6c8ead94dc4c7340ebc77bd88f768ea4563172eb5a8fe4dfee",
+    "bytes": 409422,
+    "identical": true
+  },
+  {
+    "source": "/Users/photoshop/Library/CloudStorage/OneDrive-AlNahala/هارد الشركة/شركة ارض اليرموك/[ملف تعريفي بدون اوراق] شركة ارض اليرموك.pdf",
+    "destination": "public/assets/11.pdf",
+    "sha256": "3e53b609d05c1270f6e7e2495520920441d1bc9906235c3c6f2e358daf04488e",
+    "bytes": 30846528,
+    "identical": true,
+    "previous_destination": "public/assets/company-profile.pdf",
+    "note": "Initial supplied reference; preserved under 11.pdf after the local replacement."
+  },
+  {
+    "source": "Current company-profile.pdf supplied in workspace, 2026-09-13",
+    "destination": "public/assets/company-profile.pdf",
+    "sha256": "c6e9356630ef961300e310a5eede210f584cb64fb647ed8c10f8573ad50d449f",
+    "bytes": 106978045,
+    "identical": true,
+    "note": "Unchanged by implementation; all ten pages visually reviewed during continuation."
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "engine": "chrome",
+    "lang": "ar",
+    "width": 375,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "lang": "ar",
+    "width": 768,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "lang": "ar",
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "lang": "en",
+    "width": 375,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "lang": "en",
+    "width": 768,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "lang": "en",
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "engine": "chrome",
+    "noJavaScript": true,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "ar",
+    "width": 375,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "ar",
+    "width": 768,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "ar",
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "en",
+    "width": 375,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "en",
+    "width": 768,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "lang": "en",
+    "width": 1440,
+    "passed": true
+  },
+  {
+    "engine": "webkit",
+    "noJavaScript": true,
+    "passed": true
+  }
+]

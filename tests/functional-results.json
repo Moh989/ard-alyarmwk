@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Administrative routes require authentication",
+    "passed": true
+  },
+  {
+    "name": "Contact CSRF rejection",
+    "passed": true
+  },
+  {
+    "name": "Unsupported project portfolio remains hidden",
+    "passed": true
+  },
+  {
+    "name": "Sector selection by click and keyboard",
+    "passed": true
+  },
+  {
+    "name": "Equivalent-page language switch and sector-prefilled contact form",
+    "passed": true
+  },
+  {
+    "name": "Mobile navigation, Escape and focus",
+    "passed": true
+  },
+  {
+    "name": "Server-rendered navigation works without JavaScript",
+    "passed": true
+  },
+  {
+    "name": "Optimised PDF preview source, complete download and verified checksum",
+    "passed": true
+  },
+  {
+    "name": "Contact message saved and receipt shown after database success",
+    "passed": true
+  },
+  {
+    "name": "Mail notification queue and local worker independently processed",
+    "passed": true
+  },
+  {
+    "name": "Duplicate enquiry rejected",
+    "passed": true
+  },
+  {
+    "name": "Server validates required fields, email, length and sector",
+    "passed": true
+  },
+  {
+    "name": "Hashed-password login and protected dashboard",
+    "passed": true
+  },
+  {
+    "name": "Admin inbox escapes user HTML and persists message status",
+    "passed": true
+  },
+  {
+    "name": "CMS text changes and section visibility reach public page",
+    "passed": true
+  },
+  {
+    "name": "Separate English translation and approval management",
+    "passed": true
+  },
+  {
+    "name": "Draft hiding and authenticated content preview",
+    "passed": true
+  },
+  {
+    "name": "Official settings updates render in contact page",
+    "passed": true
+  },
+  {
+    "name": "Executable upload rejected",
+    "passed": true
+  },
+  {
+    "name": "Validated image upload and private unused media",
+    "passed": true
+  },
+  {
+    "name": "New project draft remains private",
+    "passed": true
+  },
+  {
+    "name": "Approved project publication, sector filter, details and linked media",
+    "passed": true
+  },
+  {
+    "name": "Admin mutation CSRF rejection",
+    "passed": true
+  },
+  {
+    "name": "Explicit message deletion persists",
+    "passed": true
+  },
+  {
+    "name": "Logout invalidates authenticated access",
+    "passed": true
+  },
+  {
+    "name": "Login throttling and SQL-injection-style credentials rejected",
+    "passed": true
+  }
+]

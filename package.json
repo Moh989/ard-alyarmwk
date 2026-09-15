@@ -1,0 +1,17 @@
+{
+  "name": "ard-alyarmwk-website",
+  "private": true,
+  "scripts": {
+    "dev": "php -d upload_max_filesize=40M -d post_max_size=42M -S 127.0.0.1:8088 -t public public/router.php",
+    "test": "php tests/isolated-browser.php",
+    "test:admin-sliders": "php tests/isolated-browser.php admin-sliders",
+    "test:theme": "node tests/theme.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "@playwright/test": "^1.55.0"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^6.3.289"
+  }
+}

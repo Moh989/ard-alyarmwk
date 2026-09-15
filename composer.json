@@ -1,0 +1,1 @@
+{"name":"ard-alyarmwk/corporate-site","type":"project","require":{"php":">=8.2","ext-pdo":"*","ext-pdo_mysql":"*","ext-mbstring":"*","ext-fileinfo":"*","ext-gd":"*","phpmailer/phpmailer":"^6.10"},"config":{"sort-packages":true}}

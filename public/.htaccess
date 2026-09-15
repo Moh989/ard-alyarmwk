@@ -1,0 +1,23 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule (^|/)\. - [F,L]
+RewriteRule ^uploads/ - [F,L]
+RewriteRule ^assets/video/ - [F,L]
+RewriteRule ^assets/profile/ - [F,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+<FilesMatch "^(router)\.php$">
+ Require all denied
+</FilesMatch>
+<IfModule mod_headers.c>
+ Header always set X-Content-Type-Options "nosniff"
+ <FilesMatch "\.(webp|png|jpg|jpeg|woff2|ttf|mjs|js|css|bcmap|pfb|wasm)$">
+  Header set Cache-Control "public, max-age=604800"
+ </FilesMatch>
+</IfModule>
+<IfModule mod_mime.c>
+ AddType text/javascript .mjs
+ AddType application/wasm .wasm
+</IfModule>
